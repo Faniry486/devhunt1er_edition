@@ -1,0 +1,48 @@
+body{
+    padding: 0; margin: 0;
+    padding: 100px 75px;
+    background-image: url(./tourisme2.jpg);
+}
+h1{
+    padding: 0; margin: 0;
+    /* font-family: 'Dlayfair Display', sans-serif; */
+    text-align: center;
+    font-size: 50px; 
+    background-color: #8c8787;
+    opacity: 0.8;
+    border-radius: 15px;
+    padding: 15px;
+}
+h2{
+    text-align: center;
+}
+
+/* CONTENUE */
+#contenues{
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #D2D2D2;
+    border-radius: 15px;
+    opacity: 0.7;
+    overflow: hidden;
+}
+#contenue{
+    overflow: hidden;   
+    word-break: break-all;
+    color: black;
+    text-decoration: none;
+    list-style-type: none;
+    list-style: none;
+}
+
+/* boutton */
+#suivant{
+    text-align: center;
+    margin-top: 40px;
+}
+#suivant button{
+    margin: 10px 20px;
+}
+#lettre{
+    opacity: 50;
+}
